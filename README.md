@@ -1,5 +1,5 @@
 <h1 align="center"><a href="https://github.com/KugelSchreibe/magic_ball/" target="_blank">Magic Ball</a> 
-<h3 align="center">A Simplae Ruby Console App</h3>
+<h3 align="center">A Simple Ruby Console App</h3>
 
 ## Запуск консольного проложения
   1. Убедитесь в наличии интерпретатора Ruby. Сделать это можно при помощи следущей команды в косоли:
