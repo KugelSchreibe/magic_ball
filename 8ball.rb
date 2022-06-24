@@ -5,10 +5,6 @@ hello_variants = [
   "Алоха. Ответ таков:\n",
 ]
 
-puts hello_variants.sample
-
-sleep(2)
-
 answers = [
   "Бесспорно",
   "Предрешено",
@@ -37,6 +33,10 @@ answers = [
   "Перспективы не очень хорошие",
   "Весьма сомнительно"
 ]
+
+puts hello_variants.sample
+
+sleep(2)
 
 puts answers.sample
 puts
